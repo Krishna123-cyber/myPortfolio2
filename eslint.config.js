@@ -1,3 +1,8 @@
+/* eslint.config.js
+   Student Name: Krishna Kumar Mahato
+   Student ID: 301400726
+   Date: 28/26/2024
+*/
 import js from '@eslint/js'
 import globals from 'globals'
 import react from 'eslint-plugin-react'
